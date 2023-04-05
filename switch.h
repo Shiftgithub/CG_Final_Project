@@ -51,6 +51,9 @@ void switchs()
     case 15:
         invoke(&star);
         break;
+    case 16:
+        invoke(&chessboard);
+        break;
     default:
         active = false;
         break;

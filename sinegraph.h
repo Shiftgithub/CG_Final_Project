@@ -17,7 +17,7 @@ void sinegraph()
 
         /* color a pixel at the given position */
         putpixel(x, y, 15);
-        delay(100);
+        delay(10);
 
         /* increment angle */
         angle+=5;

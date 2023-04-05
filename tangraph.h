@@ -13,7 +13,7 @@ void tangraph()
 
         /* color a pixel at the given position */
         putpixel(x, y, 15);
-        delay(50);
+        delay(10);
 
         /* increment angle */
         angle+=2;

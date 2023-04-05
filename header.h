@@ -17,5 +17,6 @@
 #include "piechart.h"
 #include "sinegraph.h"
 #include "tangraph.h"
+#include "chess.h"
 
 using namespace std;
