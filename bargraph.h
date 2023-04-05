@@ -16,7 +16,7 @@ void bargraph()
     outtextxy(570, 420, "X");
     outtextxy(70, 415, "O");
     /* Draw bars on screen */
-    setfillstyle(XHATCH_FILL, RED);
+    setfillstyle(XHATCH_FILL, BLUE);
     bar(150, 80, 200, 410);
     bar(225, 100, 275, 410);
     bar(300, 120, 350, 410);
