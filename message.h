@@ -22,6 +22,6 @@ void message()
     pattern("14. Tan graph");
     pattern("15. Star");
     pattern("16. Chess Board");
-    pattern("16. Exit");
+    pattern("17. Exit");
     printf("\n");
 }
